@@ -1,0 +1,14 @@
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\bin\Debug\net8.0\ApplySOLIDInHugeClass.exe
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\bin\Debug\net8.0\ApplySOLIDInHugeClass.deps.json
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\bin\Debug\net8.0\ApplySOLIDInHugeClass.runtimeconfig.json
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\bin\Debug\net8.0\ApplySOLIDInHugeClass.dll
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\bin\Debug\net8.0\ApplySOLIDInHugeClass.pdb
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.AssemblyInfoInputs.cache
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.AssemblyInfo.cs
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.csproj.CoreCompileInputs.cache
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.dll
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\refint\ApplySOLIDInHugeClass.dll
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.pdb
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ApplySOLIDInHugeClass.genruntimeconfig.cache
+C:\Users\jhashas\Desktop\Exercices\ApplySOLIDInHugeClass\ApplySOLIDInHugeClass\obj\Debug\net8.0\ref\ApplySOLIDInHugeClass.dll

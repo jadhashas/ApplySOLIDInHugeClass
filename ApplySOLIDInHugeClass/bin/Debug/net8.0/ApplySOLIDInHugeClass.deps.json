@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ApplySOLIDInHugeClass/1.0.0": {
+        "runtime": {
+          "ApplySOLIDInHugeClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplySOLIDInHugeClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
